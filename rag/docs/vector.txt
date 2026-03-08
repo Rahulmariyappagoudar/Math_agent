@@ -1,0 +1,13 @@
+Vector Rules
+
+Dot Product
+
+A · B = |A||B|cosθ
+
+Cross Product Magnitude
+
+|A × B| = |A||B|sinθ
+
+Orthogonal vectors
+
+A · B = 0

@@ -1,0 +1,17 @@
+Domain Constraints
+
+Logarithm
+
+log(x) defined only for x > 0
+
+Square Root
+
+sqrt(x) requires x ≥ 0
+
+Division
+
+Denominator must not be zero
+
+Example
+
+1/(x−2) undefined at x = 2

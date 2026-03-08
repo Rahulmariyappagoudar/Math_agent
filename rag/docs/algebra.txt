@@ -1,0 +1,5 @@
+Quadratic Formula
+
+For equation ax^2 + bx + c = 0
+
+x = (-b ± √(b² - 4ac)) / 2a

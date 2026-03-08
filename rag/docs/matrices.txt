@@ -1,0 +1,17 @@
+Matrix Rules
+
+Matrix Multiplication
+
+If A is m×n and B is n×p
+
+Then AB is m×p
+
+Properties
+
+Matrix multiplication is associative
+
+(A B)C = A(BC)
+
+Matrix multiplication is NOT commutative
+
+AB ≠ BA

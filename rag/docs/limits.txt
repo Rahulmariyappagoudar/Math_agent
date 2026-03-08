@@ -1,0 +1,21 @@
+Limit Rules
+
+Sum Rule
+lim (f + g) = lim f + lim g
+
+Difference Rule
+lim (f - g) = lim f - lim g
+
+Product Rule
+lim (f*g) = (lim f)(lim g)
+
+Quotient Rule
+lim (f/g) = (lim f)/(lim g), if lim g ≠ 0
+
+Important Limits
+
+lim(x→0) sin x / x = 1
+
+lim(x→∞) 1/x = 0
+
+lim(x→0) (1 - cos x)/x = 0

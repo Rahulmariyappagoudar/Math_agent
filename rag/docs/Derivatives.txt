@@ -1,0 +1,23 @@
+Derivative Rules
+
+Power Rule
+d/dx (x^n) = n*x^(n-1)
+
+Constant Rule
+d/dx (c) = 0
+
+Constant Multiple Rule
+d/dx (c*f(x)) = c*f'(x)
+
+Sum Rule
+d/dx (f(x) + g(x)) = f'(x) + g'(x)
+
+Difference Rule
+d/dx (f(x) − g(x)) = f'(x) − g'(x)
+
+Basic derivatives
+d/dx (sin x) = cos x
+d/dx (cos x) = -sin x
+d/dx (tan x) = sec²x
+d/dx (e^x) = e^x
+d/dx (ln x) = 1/x

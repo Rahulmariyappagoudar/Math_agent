@@ -1,0 +1,11 @@
+Common Calculus Mistakes
+
+1 Forgetting chain rule
+
+2 Incorrect derivative of sin or cos
+
+3 Ignoring constants
+
+4 Dropping negative signs
+
+5 Ignoring domain restrictions

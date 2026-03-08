@@ -1,0 +1,11 @@
+Product Rule
+
+If y = f(x) * g(x)
+
+d/dx (f*g) = f' g + f g'
+
+Example
+
+d/dx (x² sin x)
+
+= 2x sin x + x² cos x

@@ -1,0 +1,15 @@
+Trigonometric Identities
+
+Pythagorean Identities
+
+sin²x + cos²x = 1
+
+1 + tan²x = sec²x
+
+1 + cot²x = csc²x
+
+Angle identities
+
+sin(a + b) = sin a cos b + cos a sin b
+
+cos(a + b) = cos a cos b − sin a sin b

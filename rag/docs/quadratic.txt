@@ -1,0 +1,17 @@
+Quadratic Formula
+
+For equation
+
+ax² + bx + c = 0
+
+The solutions are
+
+x = (-b ± √(b² - 4ac)) / (2a)
+
+Discriminant
+
+D = b² - 4ac
+
+If D > 0 → two real roots
+If D = 0 → one real root
+If D < 0 → complex roots

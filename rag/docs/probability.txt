@@ -1,0 +1,5 @@
+Probability Rules
+
+P(A ∩ B) = P(A)P(B|A)
+
+P(A ∪ B) = P(A) + P(B) − P(A ∩ B)

@@ -1,0 +1,20 @@
+Integration Rules
+
+Power Rule
+∫ x^n dx = x^(n+1)/(n+1) + C,  n ≠ -1
+
+Constant Rule
+∫ c dx = cx + C
+
+Constant Multiple Rule
+∫ c f(x) dx = c ∫ f(x) dx
+
+Sum Rule
+∫ (f + g) dx = ∫ f dx + ∫ g dx
+
+Common Integrals
+
+∫ sin x dx = -cos x + C
+∫ cos x dx = sin x + C
+∫ e^x dx = e^x + C
+∫ 1/x dx = ln|x| + C

@@ -1,0 +1,13 @@
+Quotient Rule
+
+If y = f(x)/g(x)
+
+d/dx (f/g)
+
+= (f' g − f g') / g²
+
+Example
+
+d/dx (sin x / x)
+
+= (x cos x − sin x) / x²
