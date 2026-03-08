@@ -158,7 +158,7 @@ Math_agent/
 
 ## 1. Clone the repository
 
-git clone `<repo_url>`{=html}\
+git clone `<https://github.com/Rahulmariyappagoudar/Math_agent>'
 cd Math_agent
 
 ------------------------------------------------------------------------
@@ -260,7 +260,6 @@ Final Answer:\
 • Step verification with symbolic solvers\
 • Interactive tutoring mode\
 • Performance optimization\
-• Distributed agent orchestration
 
 ------------------------------------------------------------------------
 
